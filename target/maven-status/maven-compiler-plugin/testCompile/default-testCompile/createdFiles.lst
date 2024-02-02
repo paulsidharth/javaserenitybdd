@@ -1,0 +1,9 @@
+com\studentapp\junit\StudentInfo\StudentCRUD.class
+com\studentapp\utils\ReusableSpecs.class
+com\studentapp\junit\StudentInfo\CreateMultipleStudents.class
+com\studentapp\cucumber\steps\StudentSteps.class
+com\studentapp\junit\StudentID\FirstSerenityTest.class
+com\studentapp\testbase\TestBase.class
+com\studentapp\utils\TestUtilEmailClass.class
+com\studentapp\junit\StudentInfo\TagsClass.class
+com\studentapp\junit\StudentInfo\StudentInfo.class
